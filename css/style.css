@@ -1,0 +1,15 @@
+.banner-logo {
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-color: lightskyblue;
+
+    width: auto;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.info-article {
+    color: grey;
+}
