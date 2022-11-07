@@ -28,7 +28,8 @@ table {
 
     background-color: #fff;
     color: black;
-    text-align: left;    
+    text-align: left;
+    width: 50%; 
 }
 
 th {
@@ -37,6 +38,11 @@ th {
 
 .azure {
     background-color: lightblue;
+}
+
+.mark{
+    background-color: #8FFFFF;
+    color: #000066;
 }
 
 .first-related-post {
