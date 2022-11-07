@@ -1,3 +1,7 @@
+main {
+    margin: 60px;
+}
+
 .banner-logo {
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
