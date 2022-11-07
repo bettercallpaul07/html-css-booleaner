@@ -6,22 +6,20 @@ main {
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
     background-color: lightskyblue;
-
-    width: auto;
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 4em;
     margin: 0;
 }
 
 .info-article {
     color: grey;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .intro-image {
-    font-size: 8px;
+    font-size: 10px;
 }
 
 .related-post {
@@ -36,11 +34,12 @@ table {
 }
 
 th {
-    background-color: aqua;
+    background-color: #1aabe6;
 }
 
 .azure {
-    background-color: lightblue;
+    background-color: #b2e6f2
+    ;
 }
 
 .mark{
