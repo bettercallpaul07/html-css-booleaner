@@ -15,9 +15,28 @@ h1 {
     color: grey;
 }
 
+.intro-image {
+    font-size: 8px;
+}
+
 .related-post {
     color: gray
 
+}
+
+table {
+
+    background-color: #fff;
+    color: black;
+    text-align: left;    
+}
+
+th {
+    background-color: aqua;
+}
+
+.azure {
+    background-color: lightblue;
 }
 
 .first-related-post {
