@@ -8,8 +8,29 @@
 
 h1 {
     font-size: 50px;
+    margin: 0;
 }
 
 .info-article {
     color: grey;
 }
+
+.related-post {
+    color: gray
+
+}
+
+.first-related-post {
+background-image: url(../img/monitor.jpg);
+height: 200px;
+width: 200px;
+color: white;
+}
+
+.second-related-post {
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 200px;
+    color: white;
+    }
+    
