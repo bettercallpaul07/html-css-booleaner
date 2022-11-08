@@ -2,10 +2,17 @@ main {
     margin: 60px;
 }
 
-.banner-logo {
+header {
     background-image: url(../img/pattern.png);
-    background-repeat: repeat;
     background-color: lightskyblue;
+    background-size: 20%;
+    height: 100px;
+}
+
+#main-logo {
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 10px;
 }
 
 h1 {

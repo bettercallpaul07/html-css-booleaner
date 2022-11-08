@@ -1,3 +1,10 @@
+header {
+    background-image: url(../img/pattern.png);
+    background-color: lightskyblue;
+    background-size: 20%;
+    height: 100px;
+}
+
 .banner-logo {
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
