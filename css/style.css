@@ -5,6 +5,12 @@ header {
     height: 100px;
 }
 
+#main-logo {
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
 .banner-logo {
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
@@ -12,13 +18,16 @@ header {
 }
 
 h1 {
-    font-size: 4em;
-    margin: 0;
+    font-size: 3em;
+    margin-bottom: 0px;
 }
 
 .info-article {
-    color: grey;
     font-size: 12px;
+}
+
+.grey-text {
+    color: grey;
 }
 
 .intro-image {
@@ -33,28 +42,35 @@ h1 {
 table {
     color: black;
     text-align: left;
-    width: 50%; 
+    border-spacing: 0px;
 }
 
-th {
+thead {
     background-color: #1aabe6;
 }
 
-.azure {
+#special-column {
+    width: 50%;
+}
+
+.azure-bg {
     background-color: #b2e6f2
     ;
 }
 
-.mark{
-    background-color: #8FFFFF;
-    color: #000066;
+#special-list{
+    padding-left: 20px;
 }
+
 
 .first-related-post {
 background-image: url(../img/monitor.jpg);
 height: 200px;
 width: 200px;
 color: white;
+background-size: cover;
+background-position: center;
+
 }
 
 .second-related-post {
@@ -62,5 +78,7 @@ color: white;
     height: 200px;
     width: 200px;
     color: white;
+    background-size: cover;
+    background-position: center;
     }
     
